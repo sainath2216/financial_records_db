@@ -23,8 +23,6 @@ categories:
             | description   | String  |
 
 
-### Transactions Base URL:
-http://localhost:3000/
 
 ### Technologies
 - Node.js
@@ -44,6 +42,9 @@ http://localhost:3000/
    ```bash
    git clone https://github.com/your-username/flowwai_assignemnt.git
    cd financial_records
+
+### Transactions Base URL:
+http://localhost:3000/
 
 ### API 1
 
