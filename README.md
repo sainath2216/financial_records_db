@@ -25,6 +25,26 @@ categories:
 
 ### Transactions Base URL:
 http://localhost:3000/
+
+### Technologies
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+
+## Installation and Setup
+
+### Prerequisites
+- Node.js (v14 or higher)
+- MongoDB (running instance or MongoDB Atlas)
+- npm (Node package manager)
+
+### Installation Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/flowwai_assignemnt.git
+   cd financial_records
+
 ### API 1
 
 #### Path: `transactions`
